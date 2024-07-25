@@ -11,5 +11,8 @@ javac Booking.java Flight.java BookingService.java BookingApp.java
 
 
 sh
+
 java BookingApp
+
+
 The updated application should now correctly handle flightId as a String and allow searching for flights, selecting a flight, and saving bookings in a console application. The user can enter flight details, save bookings, search for flights based on departure and arrival locations, and view all available flights.

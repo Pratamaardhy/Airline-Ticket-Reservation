@@ -7,6 +7,8 @@ Save the files: Save each of the above code snippets into separate files named B
 Compile the files: Open your terminal or command prompt and navigate to the directory containing the files. Compile them using:
 
 sh
+
+
 javac Booking.java Flight.java BookingService.java BookingApp.java
 
 
